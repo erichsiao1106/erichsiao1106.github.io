@@ -56,8 +56,8 @@ params:
     enabled: true
     title: "嗨，我是 Eric Hsiao 👋"
     subtitle: |
-      IC Design Engineer，正在探索 AI 應用與數位工作術。
-      喜歡把複雜的事情變得更簡單、更有系統。
+      IC Design Engineer，專注數位前端設計（RTL / CDC / 驗證）。
+      同時用 Claude API 打造 EDA 工具鏈，探索 AI × IC 設計的交叉點。
     imageUrl: "/images/profile.jpg"
     imageWidth: 160
     imageHeight: 160

@@ -575,3 +575,9 @@ my-portfolio/
 ---
 
 *教學完成。如有問題，可參考 Hugo 官方文件：https://gohugo.io/documentation/*
+cd ~/Desktop/my-portfolio
+# 編輯或新增 content/ 裡的 Markdown 檔案
+git add .
+git commit -m "更新描述"
+git push
+# 約 30 秒後網站自動更新
