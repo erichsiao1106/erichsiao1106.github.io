@@ -1,11 +1,10 @@
 ---
-title: "2021 樊登讀書《3、4月》"
-date: 2026-04-14
+title: "2021 樊登讀書《2月》"
+date: 2026-04-15
 draft: false
 description: ""
 year: 2021
-part: 2
-months: "3、4月"
+month: 2
 showToc: true
 TocOpen: false
 ---
