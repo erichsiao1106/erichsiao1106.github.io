@@ -10,33 +10,12 @@ cascade:
 
 ## 2013
 
-[《1月》](/fandeng/fandeng-2013-01/) ·
-[《2月》](/fandeng/fandeng-2013-02/) ·
-[《3月》](/fandeng/fandeng-2013-03/) ·
-[《4月》](/fandeng/fandeng-2013-04/) ·
-[《5月》](/fandeng/fandeng-2013-05/) ·
-[《6月》](/fandeng/fandeng-2013-06/) ·
-[《7月》](/fandeng/fandeng-2013-07/) ·
-[《8月》](/fandeng/fandeng-2013-08/) ·
-[《9月》](/fandeng/fandeng-2013-09/) ·
-[《10月》](/fandeng/fandeng-2013-10/) ·
-[《11月》](/fandeng/fandeng-2013-11/) ·
-[《12月》](/fandeng/fandeng-2013-12/)
+[《1月》](/fandeng/fandeng-2013-01/) 
 
 ## 2014
 
 [《1月》](/fandeng/fandeng-2014-01/) ·
-[《2月》](/fandeng/fandeng-2014-02/) ·
-[《3月》](/fandeng/fandeng-2014-03/) ·
-[《4月》](/fandeng/fandeng-2014-04/) ·
-[《5月》](/fandeng/fandeng-2014-05/) ·
-[《6月》](/fandeng/fandeng-2014-06/) ·
-[《7月》](/fandeng/fandeng-2014-07/) ·
-[《8月》](/fandeng/fandeng-2014-08/) ·
-[《9月》](/fandeng/fandeng-2014-09/) ·
-[《10月》](/fandeng/fandeng-2014-10/) ·
-[《11月》](/fandeng/fandeng-2014-11/) ·
-[《12月》](/fandeng/fandeng-2014-12/)
+[《2月》](/fandeng/fandeng-2014-02/) 
 
 ## 2015
 
