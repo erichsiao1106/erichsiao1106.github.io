@@ -10,12 +10,7 @@ cascade:
 
 ## 2013
 
-[《1、2月》](/fandeng/fandeng-2013-01/) ·
-[《3、4月》](/fandeng/fandeng-2013-02/) ·
-[《5、6月》](/fandeng/fandeng-2013-03/) ·
-[《7、8月》](/fandeng/fandeng-2013-04/) ·
-[《9、10月》](/fandeng/fandeng-2013-05/) ·
-[《11、12月》](/fandeng/fandeng-2013-06/)
+[《2013 樊登讀書》](/fandeng/fandeng-2013-01/) 
 
 ## 2014
 

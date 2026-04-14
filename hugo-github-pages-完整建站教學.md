@@ -581,3 +581,14 @@ git add .
 git commit -m "更新描述"
 git push
 # 約 30 秒後網站自動更新
+
+## 步驟八：本機預覽（可選）
+
+部署前可以先在本機看效果：
+```bash
+# 在 my-portfolio/ 目錄下執行
+hugo server -D
+
+# 打開瀏覽器到 http://localhost:1313
+# Ctrl+C 停止
+```
