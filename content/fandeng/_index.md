@@ -1,6 +1,6 @@
 ---
 title: "樊登讀書"
-description: "2013 - 2026 樊登讀書筆記，每兩個月為一組"
+description: "樊登讀書筆記《聽懂好書 生活更好》"
 showToc: true
 TocOpen: true
 cascade:

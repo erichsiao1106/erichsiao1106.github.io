@@ -10,7 +10,7 @@ showToc: true
 
 ## 相關資源連結
 
-### 職場與心靈成長精選->[點此前往深度學習資源](https://youtube.com/playlist?list=PLlbYvScKOpvXZqn8vlirvoVEr25drXRWc&si=Fa7gJWZ6Jt16R4Vo)
+### 職場與心靈成長精選->[點此前往深度學習資源](https://www.youtube.com/playlist?list=PLlbYvScKOpvXZqn8vlirvoVEr25drXRWc)
 
 ---
 ## 起點：跨越本能，邁向結構化的系統思維
