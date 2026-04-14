@@ -3,6 +3,9 @@ title: "聖經"
 description: "整本聖經每 6 章為一組的閱讀筆記"
 showToc: true
 TocOpen: true
+cascade:
+  showToc: true
+  TocOpen: false
 ---
 
 ## 舊約聖經
