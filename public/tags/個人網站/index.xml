@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>個人網站 on My New Hugo Project</title><link>https://example.org/tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99/</link><description>Recent content in 個人網站 on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World — 第一篇文章</title><link>https://example.org/blog/hello-world/</link><pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate><guid>https://example.org/blog/hello-world/</guid><description>&lt;p&gt;網站上線了。&lt;/p&gt;
+&lt;p&gt;用 Hugo + GitHub Pages，從零到部署上線大約花了一個下午。完全免費，只要有 GitHub 帳號就可以做到。&lt;/p&gt;
+&lt;h2 id="為什麼要建個人網站"&gt;為什麼要建個人網站？&lt;/h2&gt;
+&lt;p&gt;三個原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;整理自己的思考&lt;/strong&gt;——把學到的東西寫出來，理解才會真的變深&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建立可搜尋的知識庫&lt;/strong&gt;——不再讓筆記散落在各個工具裡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;對外展示&lt;/strong&gt;——讓別人可以找到我、了解我在做什麼&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="接下來想寫的主題"&gt;接下來想寫的主題&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IC 設計流程與工具的使用心得&lt;/li&gt;
+&lt;li&gt;AI 工具如何改變我的工作方式&lt;/li&gt;
+&lt;li&gt;個人知識管理與數位工作術&lt;/li&gt;
+&lt;li&gt;一人公司與個人品牌的探索記錄&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你也想建立自己的個人網站，歡迎參考這個網站的&lt;a href="https://github.com/erichsiao1106/erichsiao1106.github.io"&gt;原始碼&lt;/a&gt;。&lt;/p&gt;</description></item></channel></rss>

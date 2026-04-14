@@ -1,0 +1,99 @@
+baseURL: "https://erichsiao1106.github.io/"
+title: "Eric Hsiao | IC Design Engineer"
+paginate: 10
+theme: PaperMod
+
+languageCode: zh-tw
+defaultContentLanguage: zh-tw
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: about
+      name: "關於我"
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: "作品集"
+      url: /projects/
+      weight: 20
+    - identifier: blog
+      name: "部落格"
+      url: /blog/
+      weight: 30
+    - identifier: search
+      name: "搜尋"
+      url: /search/
+      weight: 40
+
+params:
+  env: production
+  description: "IC Design Engineer | 數位工作術 | AI 應用"
+  author: "Eric Hsiao"
+
+  defaultTheme: auto
+  ShowThemeToggle: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  profileMode:
+    enabled: true
+    title: "嗨，我是 Eric Hsiao 👋"
+    subtitle: |
+      IC Design Engineer，正在探索 AI 應用與數位工作術。
+      喜歡把複雜的事情變得更簡單、更有系統。
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: "Eric Hsiao"
+    buttons:
+      - name: "關於我"
+        url: /about/
+      - name: "作品集"
+        url: /projects/
+      - name: "部落格"
+        url: /blog/
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/erichsiao1106"
+    - name: email
+      url: "mailto:erichsiao801106@gmail.com"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  assets:
+    favicon: "/images/favicon.ico"
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>作品集 on My New Hugo Project</title><link>https://example.org/projects/</link><description>Recent content in 作品集 on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>個人網站</title><link>https://example.org/projects/personal-website/</link><pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate><guid>https://example.org/projects/personal-website/</guid><description>&lt;h2 id="專案概述"&gt;專案概述&lt;/h2&gt;
+&lt;p&gt;這個網站本身就是第一個作品。使用 Hugo 靜態網站產生器搭配 PaperMod 主題建立，部署在 GitHub Pages 上，費用為零。&lt;/p&gt;
+&lt;h2 id="技術棧"&gt;技術棧&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;框架&lt;/strong&gt;：Hugo (Extended)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主題&lt;/strong&gt;：PaperMod&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署&lt;/strong&gt;：GitHub Pages + GitHub Actions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;內容管理&lt;/strong&gt;：Markdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="特色功能"&gt;特色功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;支援深色 / 淺色模式自動切換&lt;/li&gt;
+&lt;li&gt;全站搜尋（客戶端 Fuse.js）&lt;/li&gt;
+&lt;li&gt;響應式設計，手機與桌面都適用&lt;/li&gt;
+&lt;li&gt;Push 到 GitHub 自動部署，1-2 分鐘上線&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="原始碼"&gt;原始碼&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/erichsiao1106/erichsiao1106.github.io"&gt;github.com/erichsiao1106/erichsiao1106.github.io&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
