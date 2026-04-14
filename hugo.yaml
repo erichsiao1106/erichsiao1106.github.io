@@ -32,10 +32,14 @@ menu:
       name: "部落格"
       url: /blog/
       weight: 30
+    - identifier: bible
+      name: "聖經"
+      url: /bible/
+      weight: 40
     - identifier: search
       name: "搜尋"
       url: /search/
-      weight: 40
+      weight: 50
 
 params:
   env: production
