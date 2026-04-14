@@ -8,7 +8,7 @@ category: "摩西五經"
 book: "利未記"
 part: 5
 chapters: "25~27"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

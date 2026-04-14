@@ -36,6 +36,10 @@ menu:
       name: "聖經"
       url: /bible/
       weight: 40
+    - identifier: fandeng
+      name: "樊登讀書"
+      url: /fandeng/
+      weight: 45
     - identifier: search
       name: "搜尋"
       url: /search/

@@ -8,7 +8,7 @@ category: "先知書"
 book: "耶利米哀歌"
 part: 1
 chapters: "01~05"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

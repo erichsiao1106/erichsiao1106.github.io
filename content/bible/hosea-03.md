@@ -8,7 +8,7 @@ category: "先知書"
 book: "何西阿書"
 part: 3
 chapters: "13~14"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

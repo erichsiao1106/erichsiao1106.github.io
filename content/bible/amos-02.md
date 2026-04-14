@@ -8,7 +8,7 @@ category: "先知書"
 book: "阿摩司書"
 part: 2
 chapters: "07~09"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

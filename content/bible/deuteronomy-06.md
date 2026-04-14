@@ -8,7 +8,7 @@ category: "摩西五經"
 book: "申命記"
 part: 6
 chapters: "31~34"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

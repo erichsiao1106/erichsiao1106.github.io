@@ -8,7 +8,7 @@ category: "先知書"
 book: "俄巴底亞書"
 part: 1
 chapters: "01"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

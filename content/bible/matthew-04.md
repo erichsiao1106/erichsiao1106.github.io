@@ -8,7 +8,7 @@ category: "福音書與歷史書"
 book: "馬太福音"
 part: 4
 chapters: "19~24"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

@@ -8,7 +8,7 @@ category: "詩歌智慧書"
 book: "雅歌"
 part: 2
 chapters: "07~08"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

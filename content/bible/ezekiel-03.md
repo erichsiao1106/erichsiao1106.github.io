@@ -8,7 +8,7 @@ category: "先知書"
 book: "以西結書"
 part: 3
 chapters: "13~18"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

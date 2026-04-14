@@ -8,7 +8,7 @@ category: "詩歌智慧書"
 book: "傳道書"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

@@ -8,7 +8,7 @@ category: "摩西五經"
 book: "民數記"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

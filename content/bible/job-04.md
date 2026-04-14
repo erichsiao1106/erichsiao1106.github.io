@@ -8,7 +8,7 @@ category: "詩歌智慧書"
 book: "約伯記"
 part: 4
 chapters: "19~24"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

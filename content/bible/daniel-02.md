@@ -8,7 +8,7 @@ category: "先知書"
 book: "但以理書"
 part: 2
 chapters: "07~12"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

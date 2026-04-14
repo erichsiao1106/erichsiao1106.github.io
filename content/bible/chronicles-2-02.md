@@ -8,7 +8,7 @@ category: "歷史書"
 book: "歷代志下"
 part: 2
 chapters: "07~12"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

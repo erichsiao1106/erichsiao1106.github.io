@@ -8,7 +8,7 @@ category: "歷史書"
 book: "以斯帖記"
 part: 2
 chapters: "07~10"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

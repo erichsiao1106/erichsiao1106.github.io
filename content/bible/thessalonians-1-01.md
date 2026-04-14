@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "帖撒羅尼迦前書"
 part: 1
 chapters: "01~05"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

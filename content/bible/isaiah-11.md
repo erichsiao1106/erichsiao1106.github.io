@@ -8,7 +8,7 @@ category: "先知書"
 book: "以賽亞書"
 part: 11
 chapters: "61~66"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

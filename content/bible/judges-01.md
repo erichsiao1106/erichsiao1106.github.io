@@ -8,7 +8,7 @@ category: "歷史書"
 book: "士師記"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

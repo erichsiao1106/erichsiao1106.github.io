@@ -8,7 +8,7 @@ category: "先知書"
 book: "瑪拉基書"
 part: 1
 chapters: "01~04"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

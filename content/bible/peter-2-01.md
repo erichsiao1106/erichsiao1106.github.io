@@ -8,7 +8,7 @@ category: "一般書信與啟示錄"
 book: "彼得後書"
 part: 1
 chapters: "01~03"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

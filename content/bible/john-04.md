@@ -8,7 +8,7 @@ category: "福音書與歷史書"
 book: "約翰福音"
 part: 4
 chapters: "19~21"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

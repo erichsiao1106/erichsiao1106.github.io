@@ -8,7 +8,7 @@ category: "摩西五經"
 book: "出埃及記"
 part: 6
 chapters: "31~36"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

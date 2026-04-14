@@ -8,7 +8,7 @@ category: "歷史書"
 book: "列王紀上"
 part: 4
 chapters: "19~22"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

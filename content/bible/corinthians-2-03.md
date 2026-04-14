@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "哥林多後書"
 part: 3
 chapters: "13"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

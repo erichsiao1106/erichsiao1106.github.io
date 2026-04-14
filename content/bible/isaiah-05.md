@@ -8,7 +8,7 @@ category: "先知書"
 book: "以賽亞書"
 part: 5
 chapters: "25~30"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

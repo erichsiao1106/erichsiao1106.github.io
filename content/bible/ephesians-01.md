@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "以弗所書"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

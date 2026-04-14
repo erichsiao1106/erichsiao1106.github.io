@@ -8,7 +8,7 @@ category: "先知書"
 book: "耶利米書"
 part: 9
 chapters: "49~52"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

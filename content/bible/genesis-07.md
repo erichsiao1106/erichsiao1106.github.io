@@ -8,7 +8,7 @@ category: "摩西五經"
 book: "創世記"
 part: 7
 chapters: "37~42"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

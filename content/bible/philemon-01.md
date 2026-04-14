@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "腓利門書"
 part: 1
 chapters: "01"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

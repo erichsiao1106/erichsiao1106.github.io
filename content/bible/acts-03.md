@@ -8,7 +8,7 @@ category: "福音書與歷史書"
 book: "使徒行傳"
 part: 3
 chapters: "13~18"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

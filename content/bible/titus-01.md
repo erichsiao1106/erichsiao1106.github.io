@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "提多書"
 part: 1
 chapters: "01~03"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

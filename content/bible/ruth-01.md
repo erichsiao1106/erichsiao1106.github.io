@@ -8,7 +8,7 @@ category: "歷史書"
 book: "路得記"
 part: 1
 chapters: "01~04"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

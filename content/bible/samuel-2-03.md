@@ -8,7 +8,7 @@ category: "歷史書"
 book: "撒母耳記下"
 part: 3
 chapters: "13~18"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

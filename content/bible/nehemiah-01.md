@@ -8,7 +8,7 @@ category: "歷史書"
 book: "尼希米記"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

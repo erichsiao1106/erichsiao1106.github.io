@@ -8,7 +8,7 @@ category: "保羅書信"
 book: "歌羅西書"
 part: 1
 chapters: "01~04"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

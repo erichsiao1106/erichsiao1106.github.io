@@ -8,7 +8,7 @@ category: "歷史書"
 book: "列王紀下"
 part: 5
 chapters: "25"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

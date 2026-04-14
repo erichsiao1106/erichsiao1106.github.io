@@ -9,7 +9,7 @@ category: "福音書與歷史書"
 book: "使徒行傳"
 part: 1
 chapters: "01~06"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

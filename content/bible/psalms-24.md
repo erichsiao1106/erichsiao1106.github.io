@@ -8,7 +8,7 @@ category: "詩歌智慧書"
 book: "詩篇"
 part: 24
 chapters: "139~144"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 

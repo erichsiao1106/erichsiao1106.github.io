@@ -8,7 +8,7 @@ category: "一般書信與啟示錄"
 book: "啟示錄"
 part: 3
 chapters: "13~18"
-showToc: false
+showToc: true
 ShowBreadCrumbs: true
 ---
 
