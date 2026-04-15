@@ -1,5 +1,5 @@
 ---
-title: "2022 樊登讀書《8月》"
+title: "《8月》"
 date: 2026-04-14
 draft: false
 description: ""
