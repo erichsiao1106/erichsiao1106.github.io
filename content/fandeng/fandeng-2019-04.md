@@ -1,5 +1,5 @@
 ---
-title: "《4月》"
+title: "2019 樊登讀書《4月》"
 date: 2026-04-14
 draft: false
 description: ""
