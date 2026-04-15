@@ -1,5 +1,5 @@
 ---
-title: "2015 樊登讀書《10月》"
+title: "2015 樊登讀書《10月》《重新定義公司》《關鍵對話》"
 date: 2026-04-14
 draft: false
 description: ""
