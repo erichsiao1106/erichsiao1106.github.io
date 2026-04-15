@@ -1,6 +1,7 @@
 ---
 title: "聖經"
 description: "《聖經》是基督教的核心經典，包含舊約與新約。它不僅記述神與人的盟約與救贖，更是深刻影響西方文明與道德觀念的生命指南"
+layout: single
 showToc: true
 TocOpen: true
 cascade:
