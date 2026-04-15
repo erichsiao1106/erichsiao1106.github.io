@@ -1,5 +1,5 @@
 ---
-title: "2018 樊登讀書《11月》"
+title: "2018 樊登讀書《11月》《認知天性》《掃除道》《傳染》"
 date: 2026-04-14
 draft: false
 description: ""
