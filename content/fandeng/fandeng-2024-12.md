@@ -1,6 +1,6 @@
 ---
 title: "2024 樊登讀書《12月》"
-date: 2026-04-15
+date: 2026-04-14
 draft: false
 description: ""
 year: 2024
