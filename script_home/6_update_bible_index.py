@@ -49,11 +49,15 @@ for i, line in enumerate(lines):
         new_lines.append(line)
         continue
 
-    # ── 追蹤書卷名稱（**創世記** / **詩篇** ...）──
+    # ── 追蹤書卷名稱（**創世記** / **詩篇** ...），並在下方加 --- ──
     book_match = re.match(r'^\*\*(.+?)\*\*', stripped)
     if book_match:
         current_book = book_match.group(1)
         new_lines.append(line)
+        # 加分隔線（若下一行已是 --- 則跳過）
+        next_line = lines[i + 1] if i + 1 < len(lines) else ""
+        if next_line.strip() != "---":
+            new_lines.append("---")
         continue
 
     # ── 處理連結行 ──
