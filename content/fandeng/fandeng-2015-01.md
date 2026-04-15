@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 ---
 
-[點此前往 YouTube 播放清單](https://youtube.com/playlist?list=PLlbYvScKOpvXZqn8vlirvoVEr25drXRWc&si=Fa7gJWZ6Jt16R4Vo)
+[點此前往 YouTube 播放清單](https://www.youtube.com/playlist?list=PLchi0D1BENgopcbagRDTGoQBftaDM6InX)
 
 # 從慾望到意義：一場關於「說服力」與「生命韌性」的心理學深度對話
 
