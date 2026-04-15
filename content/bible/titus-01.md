@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》提多書《1》：01~03 章"
+title: "新約聖經《保羅書信》《提多書》《1》01~03"
 date: 2026-04-14
 draft: false
 description: ""

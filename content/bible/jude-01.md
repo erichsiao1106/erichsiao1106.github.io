@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》猶大書《1》：01 章"
+title: "新約聖經《一般書信與啟示錄》《猶大書》《1》01"
 date: 2026-04-14
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》利未記《4》：19~24 章"
+title: "舊約聖經《摩西五經》《利未記》《4》19~24"
 date: 2026-04-14
 draft: false
 description: ""

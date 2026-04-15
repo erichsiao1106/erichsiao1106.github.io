@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》羅馬書《3》：13~16 章"
+title: "新約聖經《保羅書信》《羅馬書》《3》13~16"
 date: 2026-04-14
 draft: false
 description: ""

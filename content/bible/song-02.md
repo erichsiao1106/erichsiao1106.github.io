@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》雅歌《2》：07~08 章"
+title: "舊約聖經《詩歌智慧書》《雅歌》《2》07~08"
 date: 2026-04-14
 draft: false
 description: ""

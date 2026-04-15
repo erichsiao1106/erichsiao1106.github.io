@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》約翰三書《1》：01 章"
+title: "新約聖經《一般書信與啟示錄》《約翰三書》《1》01"
 date: 2026-04-14
 draft: false
 description: ""

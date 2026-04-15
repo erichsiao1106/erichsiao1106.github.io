@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》利未記《3》：13~18 章"
+title: "舊約聖經《摩西五經》《利未記》《3》13~18"
 date: 2026-04-14
 draft: false
 description: ""

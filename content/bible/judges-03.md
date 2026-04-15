@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》士師記《3》：13~18 章"
+title: "舊約聖經《歷史書》《士師記》《3》13~18"
 date: 2026-04-14
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》民數記《6》：31~36 章"
+title: "舊約聖經《摩西五經》《民數記》《6》31~36"
 date: 2026-04-14
 draft: false
 description: ""

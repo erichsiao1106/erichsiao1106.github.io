@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》羅馬書《2》：07~12 章"
+title: "新約聖經《保羅書信》《羅馬書》《2》07~12"
 date: 2026-04-14
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "《新約聖經》腓利門書《1》：01 章"
+title: "新約聖經《保羅書信》《腓利門書》《1》01"
 date: 2026-04-14
 draft: false
 description: ""

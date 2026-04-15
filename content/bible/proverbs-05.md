@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》箴言《5》：25~30 章"
+title: "舊約聖經《詩歌智慧書》《箴言》《5》25~30"
 date: 2026-04-14
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》俄巴底亞書《1》：01 章"
+title: "舊約聖經《先知書》《俄巴底亞書》《1》01"
 date: 2026-04-14
 draft: false
 description: ""

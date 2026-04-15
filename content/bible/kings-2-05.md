@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》列王紀下《5》：25 章"
+title: "舊約聖經《歷史書》《列王紀下》《5》25"
 date: 2026-04-14
 draft: false
 description: ""

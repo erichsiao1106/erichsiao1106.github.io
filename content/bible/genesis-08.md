@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》創世記《8》：43~48 章"
+title: "舊約聖經《摩西五經》《創世記》《8》43~48"
 date: 2026-04-14
 draft: false
 description: ""

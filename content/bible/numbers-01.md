@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》民數記《1》：01~06 章"
+title: "舊約聖經《摩西五經》《民數記》《1》01~06"
 date: 2026-04-14
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》哈該書《1》：01~02 章"
+title: "舊約聖經《先知書》《哈該書》《1》01~02"
 date: 2026-04-14
 draft: false
 description: ""

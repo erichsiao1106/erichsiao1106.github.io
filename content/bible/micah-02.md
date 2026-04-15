@@ -1,5 +1,5 @@
 ---
-title: "《舊約聖經》彌迦書《2》：07 章"
+title: "舊約聖經《先知書》《彌迦書》《2》07"
 date: 2026-04-14
 draft: false
 description: ""
