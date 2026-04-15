@@ -20,6 +20,8 @@ python script_home\腳本名稱.py
 | 5 | `5_fix_dates.py` | 批次修正頁面日期（避免 buildFuture 404） | 遇到 404 時 |
 | 6 | `6_update_bible_index.py` | 更新聖經 `_index.md` 連結格式為完整標題 + 加空行 | 一次性 / 格式變動時 |
 | 7 | `7_sync_bible.py` | 把聖經 `_index.md` 連結文字同步到各頁面 `title:` | **日常使用** |
+| 8 | `8_gen_english.py` | 生成精通英語所有課次的佔位頁面（65 個）+ `_index.md` | 一次性 / 補頁時 |
+| 9 | `9_sync_english.py` | 把精通英語 `_index.md` 連結文字同步到各頁面 `title:` | **日常使用** |
 
 ---
 

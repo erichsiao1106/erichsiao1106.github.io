@@ -40,6 +40,10 @@ menu:
       name: "樊登讀書"
       url: /fandeng/
       weight: 45
+    - identifier: english
+      name: "精通英語"
+      url: /english/
+      weight: 47
     - identifier: search
       name: "搜尋"
       url: /search/
