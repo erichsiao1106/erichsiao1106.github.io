@@ -1,0 +1,30 @@
+{{/*
+  page_image.html
+  ---------------
+  自動在頁面內容後方顯示對應圖片。
+
+  規則：
+    static/images/{頁面檔名（不含 .md）}.{副檔名}
+    副檔名依序嘗試：jpg → jpeg → png → webp → gif
+
+  範例：
+    內容頁：content/bible/genesis-01.md
+    圖片放：static/images/genesis-01.jpg（或 .png 等）
+    → 自動顯示，不需改 front matter
+*/}}
+{{- $slug := .File.ContentBaseName }}
+{{- $exts := slice "jpg" "jpeg" "png" "webp" "gif" }}
+{{- $imgURL := "" }}
+{{- range $exts }}
+  {{- if and (eq $imgURL "") (os.FileExists (printf "static/images/%s.%s" $slug .)) }}
+    {{- $imgURL = printf "/images/%s.%s" $slug . }}
+  {{- end }}
+{{- end }}
+{{- with $imgURL }}
+<figure class="page-image">
+  <img src="{{ . }}"
+       alt="{{ $.Title }}"
+       loading="lazy"
+       style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 2px 16px rgba(0,0,0,0.12);margin:0 auto;display:block;">
+</figure>
+{{- end }}

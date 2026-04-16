@@ -53,6 +53,7 @@ params:
   env: production
   description: "IC Design Engineer | 數位工作術 | AI 應用"
   author: "Eric Hsiao"
+  mainSections: ["bible", "fandeng", "english", "blog"]
 
   defaultTheme: auto
   ShowThemeToggle: true

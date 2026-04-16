@@ -7,6 +7,7 @@ TocOpen: true
 cascade:
   showToc: true
   TocOpen: false
+  ShowPostNavLinks: true
 ---
 
 ## 2013
