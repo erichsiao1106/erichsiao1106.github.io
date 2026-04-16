@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-<article class="post-single">
+<article class="post-single" data-page-slug="{{ .File.ContentBaseName }}">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title entry-hint-parent">
@@ -34,6 +34,9 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{/* ── 頂部圖片：static/images/{slug}_t.{ext} ── */}}
+  {{- partial "page_image.html" (dict "ctx" . "pos" "top") }}
+
   {{- if .Content }}
   <div class="post-content md-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
@@ -42,8 +45,8 @@
   </div>
   {{- end }}
 
-  {{/* ── 自動顯示對應圖片（static/images/{slug}.jpg 等）── */}}
-  {{- partial "page_image.html" . }}
+  {{/* ── 底部圖片：static/images/{slug}_d.{ext} ── */}}
+  {{- partial "page_image.html" (dict "ctx" . "pos" "bottom") }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -64,5 +67,58 @@
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
+
+{{/* ── 行內圖片：<imageN> → static/images/{slug}_N.{ext}，JavaScript 替換 ── */}}
+<script>
+(function () {
+  var article = document.querySelector('article.post-single');
+  if (!article) return;
+  var slug = article.dataset.pageSlug;
+  if (!slug) return;
+
+  var exts = ['jpg', 'jpeg', 'png', 'webp', 'gif'];
+  var content = article.querySelector('.post-content');
+  if (!content) return;
+
+  function makeImg(src, alt) {
+    var figure = document.createElement('figure');
+    figure.className = 'page-image page-image-inline';
+    figure.style.cssText = 'text-align:center;margin:1.5em 0;';
+    var img = document.createElement('img');
+    img.src = src;
+    img.alt = alt || '';
+    img.loading = 'lazy';
+    img.style.cssText = 'max-width:100%;height:auto;border-radius:8px;' +
+                        'box-shadow:0 2px 16px rgba(0,0,0,0.12);display:block;margin:0 auto;';
+    figure.appendChild(img);
+    return figure;
+  }
+
+  // 嘗試每個副檔名，找到就替換 placeholder；找不到就隱藏
+  function tryLoad(placeholder, slug, num, extIdx) {
+    if (extIdx >= exts.length) {
+      placeholder.style.display = 'none';
+      return;
+    }
+    var src = '/images/' + slug + '_' + num + '.' + exts[extIdx];
+    var tester = new Image();
+    tester.onload = function () {
+      placeholder.replaceWith(makeImg(src));
+    };
+    tester.onerror = function () {
+      tryLoad(placeholder, slug, num, extIdx + 1);
+    };
+    tester.src = src;
+  }
+
+  // 掃描 <image1> ~ <image20>（可依需求加大上限）
+  for (var n = 1; n <= 20; n++) {
+    var placeholders = content.querySelectorAll('image' + n);
+    placeholders.forEach(function (el, _idx, _arr, num) {
+      return function () { tryLoad(el, slug, num, 0); };
+    }(n));  // IIFE 鎖定 n 的值
+  }
+})();
+</script>
 
 {{- end }}{{/* end main */}}

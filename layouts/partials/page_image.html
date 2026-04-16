@@ -1,30 +1,31 @@
 {{/*
   page_image.html
   ---------------
-  自動在頁面內容後方顯示對應圖片。
+  參數：dict "ctx" (page context)  "pos" ("top" | "bottom")
 
-  規則：
-    static/images/{頁面檔名（不含 .md）}.{副檔名}
-    副檔名依序嘗試：jpg → jpeg → png → webp → gif
+  pos = "top"    → 檢查 static/images/{slug}_t.{ext}，顯示在目錄下方、內文上方
+  pos = "bottom" → 檢查 static/images/{slug}_d.{ext}，顯示在內文下方、prev/next 上方
 
-  範例：
-    內容頁：content/bible/genesis-01.md
-    圖片放：static/images/genesis-01.jpg（或 .png 等）
-    → 自動顯示，不需改 front matter
+  支援副檔名：jpg、jpeg、png、webp、gif（依序嘗試）
+  找不到圖片 → 什麼都不輸出
 */}}
-{{- $slug := .File.ContentBaseName }}
+{{- $ctx  := .ctx }}
+{{- $pos  := .pos }}
+{{- $slug := $ctx.File.ContentBaseName }}
+{{- $suffix := cond (eq $pos "top") "_t" "_d" }}
+{{- $base := printf "%s%s" $slug $suffix }}
 {{- $exts := slice "jpg" "jpeg" "png" "webp" "gif" }}
 {{- $imgURL := "" }}
 {{- range $exts }}
-  {{- if and (eq $imgURL "") (os.FileExists (printf "static/images/%s.%s" $slug .)) }}
-    {{- $imgURL = printf "/images/%s.%s" $slug . }}
+  {{- if and (eq $imgURL "") (os.FileExists (printf "static/images/%s.%s" $base .)) }}
+    {{- $imgURL = printf "/images/%s.%s" $base . }}
   {{- end }}
 {{- end }}
 {{- with $imgURL }}
-<figure class="page-image">
+<figure class="page-image page-image-{{ $pos }}" style="text-align:center;margin:1.5em 0;">
   <img src="{{ . }}"
-       alt="{{ $.Title }}"
+       alt="{{ $ctx.Title }}"
        loading="lazy"
-       style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 2px 16px rgba(0,0,0,0.12);margin:0 auto;display:block;">
+       style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 2px 16px rgba(0,0,0,0.12);display:block;margin:0 auto;">
 </figure>
 {{- end }}
