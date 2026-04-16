@@ -7,7 +7,6 @@ TocOpen: true
 cascade:
   showToc: true
   TocOpen: false
-  ShowPostNavLinks: true
 ---
 
 ## 英文教材

@@ -1,13 +1,12 @@
 ---
 title: "樊登讀書"
-description: "2013 - 2026 樊登讀書筆記，每月為一組"
+description: "聽懂好書 生活更好"
 layout: single
 showToc: true
 TocOpen: true
 cascade:
   showToc: true
   TocOpen: false
-  ShowPostNavLinks: true
 ---
 
 ## 2013
