@@ -113,10 +113,12 @@
 
   // 掃描 <image1> ~ <image20>（可依需求加大上限）
   for (var n = 1; n <= 20; n++) {
-    var placeholders = content.querySelectorAll('image' + n);
-    placeholders.forEach(function (el, _idx, _arr, num) {
-      return function () { tryLoad(el, slug, num, 0); };
-    }(n));  // IIFE 鎖定 n 的值
+    (function (num) {
+      var placeholders = content.querySelectorAll('image' + num);
+      placeholders.forEach(function (el) {
+        tryLoad(el, slug, num, 0);
+      });
+    })(n);
   }
 })();
 </script>
