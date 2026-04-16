@@ -67,6 +67,9 @@ ShowPostNavLinks: true
 *   **時間調節詞 "Later"：** 
     在邀約中使用 "Later" 能提供時間上的靈活性（Non-binding invitation），避免給對方立即性的社交壓力，是美式社交中極具禮儀的策略。
 
+
+<image1></image1>
+
 ---
 
 ## 第二章：學術身份與階梯式晉升——年級稱呼指南
@@ -104,6 +107,9 @@ ShowPostNavLinks: true
 *   **"I'm a junior, too."**（我也是大三。）
 
 當發現與對方年級相同時，使用 "too" 進行認同強化（Social Bonding），是快速縮短人際距離的有效手段。
+
+
+<image2></image2>
 
 ---
 
@@ -150,6 +156,9 @@ ShowPostNavLinks: true
     *   這是一個動態的描述，意指兩棟建築物「面對面」（facing each other）。
     *   當你聽到 "across from" 時，心理預期應是：目標建築物在另一側，你通常需要**跨越（walk across）**一條馬路、一個廣場或一片草地才能到達。
     *   *Example: "The rec center is across from the engineering building."*
+
+
+<image3></image3>
 
 ---
 

@@ -47,6 +47,9 @@ ShowPostNavLinks: true
 *   **戰略解析：** 這個片語比單純的 "Tell me what happened" 更有專業度。它暗示你是一個具備「所有權（Ownership）」的人，渴望迅速回到資訊的核心圈，確保接下來的決策不留盲點。
 *   **專業技巧：** 使用介係詞 **"on"** 來引出特定主題，例如 *...on the budget* 或 *...on what happened while I was gone*，這能讓你的請求具體化，避免無謂的溝通成本。
 
+
+<image1></image1>
+
 ---
 
 ## 第二章：職場培訓與新技能掌握——在謙遜中展現專業廣度
@@ -81,6 +84,9 @@ ShowPostNavLinks: true
 
 *   **幽默與謙遜：** 透過在特定任務後加上 "**thing**"（例如 this marketing thing），你傳達了一種「我正在變強，但我依然保持謙遜」的訊號。這是一種極佳的潤滑劑，能縮短你從新手到成熟貢獻者的轉化感知。
 
+
+<image2></image2>
+
 ---
 
 ## 第三章：專注時間管理——平衡深度工作與團隊同步
@@ -113,6 +119,9 @@ ShowPostNavLinks: true
 
 *   **戰略表達：** "**Keep me in the loop**."
 *   **應用機制：** 這是一種委託信任機制。當你因 Heads down 無法參加會議時，告訴你的工作夥伴這句話。這確保了你雖然不在場，但依然位於決策圈的核心，有效防止資訊孤島（Information Silos）的產生。
+
+
+<image3></image3>
 
 ---
 
