@@ -9,4 +9,6 @@ showToc: true
 TocOpen: false
 ---
 
-（內容待新增）
+[點此前往 YouTube 播放清單](https://youtube.com/playlist?list=PLlbYvScKOpvXZqn8vlirvoVEr25drXRWc&si=Fa7gJWZ6Jt16R4Vo)
+
+
