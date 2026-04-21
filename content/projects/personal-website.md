@@ -6,9 +6,13 @@ tags: ["Hugo", "GitHub Pages", "靜態網站"]
 showToc: true
 ---
 
+<image1></image1>
+
 ## 專案概述
 
 這個網站本身就是第一個作品。使用 Hugo 靜態網站產生器搭配 PaperMod 主題建立，部署在 GitHub Pages 上，費用為零。
+
+<image2></image2>
 
 ## 技術棧
 
@@ -17,12 +21,16 @@ showToc: true
 - **部署**：GitHub Pages + GitHub Actions
 - **內容管理**：Markdown
 
+<image3></image3>
+
 ## 特色功能
 
 - 支援深色 / 淺色模式自動切換
 - 全站搜尋（客戶端 Fuse.js）
 - 響應式設計，手機與桌面都適用
 - Push 到 GitHub 自動部署，1-2 分鐘上線
+
+<image4></image4>
 
 ## 原始碼
 

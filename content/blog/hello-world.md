@@ -7,6 +7,8 @@ tags: ["IC Design", "Claude API", "SystemVerilog", "CDC", "MCP"]
 showToc: true
 ---
 
+<image1></image1>
+
 ## 起點：一個讓我坐立難安的問題
 
 「如果 AI 真的可以寫 RTL，IC 工程師還需要懂設計嗎？」
@@ -14,6 +16,8 @@ showToc: true
 這個問題困擾我很久。不是因為我怕被取代，而是因為我不知道答案。所以我決定用兩個月，親自弄清楚這件事。
 
 ---
+
+<image2></image2>
 
 ## 第一個月：重新走過 IC 設計的基礎
 
@@ -32,6 +36,8 @@ showToc: true
 最後累積了 27 個 SystemVerilog 檔案、5 份規格文件，還有 8 天的設計日記。
 
 ---
+
+<image3></image3>
 
 ## 第二個月：讓 AI 真的融入工具鏈
 
@@ -60,6 +66,8 @@ Week 2 把那些工具標準化成 MCP（Model Context Protocol）Server。
 手工寫一個 register file 要半天——讀 spec、確認地址、處理 read/write 屬性、寫 case statement。用 Tool Use 讓 Claude 結構化解析 table，Python 生成程式碼，1 分鐘搞定。
 
 ---
+
+<image4></image4>
 
 ## 結論：AI 改變的不是技術，是速度
 

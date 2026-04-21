@@ -20,6 +20,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image1></image1>
+
 ## 第一章：解構學術英文的迷思——精確勝過艱澀
 
 許多學生誤以為，學術英語的層次取決於單字的音節數。然而，真正的專業表達，核心在於「溝通效率」。
@@ -54,6 +56,8 @@ ShowPostNavLinks: true
 當你能在「專業感」與「清晰度」之間游刃有餘時，你便掌握了學術交流的第一把鑰匙。
 
 ---
+
+<image2></image2>
 
 ## 第二章：課堂生存戰——當內容「躍過頭頂」時的應對策略
 
@@ -95,6 +99,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image3></image3>
+
 ## 第三章：參與的力量——如何優雅地表達個人見解
 
 在美國校園文化中，參與課堂討論（Classroom Participation）是成績的重要組成部分。沈默往往不被視為謙遜，而被視為「缺乏準備」。
@@ -125,6 +131,8 @@ ShowPostNavLinks: true
 透過這種「正面觀點 + However + 反面觀點」的結構，你展示了具備批判性思考（Critical Thinking）的能力。你甚至可以引入現代學術詞彙，如 **FOMO** (Fear Of Missing Out)，來強化你的論點，說明科技如何導致心理焦慮。
 
 ---
+
+<image4></image4>
 
 ## 第四章：內化與實踐——建立你的學術溝通工具箱
 
@@ -162,6 +170,8 @@ ShowPostNavLinks: true
 這份長篇指南將結合多位語言專家的實戰策略，從學術英文的核心邏輯、聽不懂課時的精準提問技巧，到如何優雅地在課堂討論中展現批判性思考。無論你是即將出國的準留學生，還是在學術海中掙扎的在校生，這篇文章都將為你提供一套完整的「課堂生存與進階工具箱」。
 
 ---
+
+<image5></image5>
 
 ## 第一章：解構學術英文——「精準」遠勝於「艱澀」
 
@@ -202,6 +212,8 @@ ShowPostNavLinks: true
 這種「適當且易懂」的平衡（Balance），能讓你聽起來既專業又自然（Sound smart and natural），無論是在課堂發表還是在與教授私下交流時，都能建立起成熟的學術形象。
 
 ---
+
+<image6></image6>
 
 ## 第二章：生存策略——當內容超出你的理解範圍時
 
@@ -252,6 +264,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image7></image7>
+
 ## 第三章：掌握討論權——如何優雅地表達見解
 
 在美式教育中，參與課堂討論（Classroom Participation）通常佔總成績的 20% 到 30%。如果你整學期都不發言，即使考卷拿滿分，也未必能得到 A。
@@ -289,6 +303,8 @@ ShowPostNavLinks: true
 > *"Using social media can lead to connections. However, it can also lead to **FOMO**, making people feel left out."*
 
 ---
+
+<image8></image8>
 
 ## 第四章：總結與行動方案
 

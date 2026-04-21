@@ -7,6 +7,8 @@ showToc: true
 TocOpen: true
 ---
 
+<image1></image1>
+
 ## 專案概述
 
 IC 設計的學習曲線很陡：CDC、APB、AXI-Lite、Coverage-Driven Verification——每個概念都需要時間消化，更需要動手跑過才算真的懂。
@@ -14,6 +16,8 @@ IC 設計的學習曲線很陡：CDC、APB、AXI-Lite、Coverage-Driven Verifica
 這個專案分兩個月：**第一個月**用 Claude Code 輔助，8 天走完一條從基礎 FIFO 到 SoC Fabric 的完整 IC 前端設計路徑；**第二個月**用 Claude API 從頭打造四個 EDA 工具，把重複性工作自動化。
 
 ---
+
+<image2></image2>
 
 ## 第一個月：IC 前端設計 8 天
 
@@ -83,6 +87,8 @@ assign rst_n_out = sync_ff[SYNC_STAGES-1];
 ```
 
 ---
+
+<image3></image3>
 
 ## 第二個月：Claude API 工具開發
 
@@ -157,6 +163,8 @@ Python：根據解析結果生成 SystemVerilog APB slave 模組
 
 ---
 
+<image4></image4>
+
 ## 數字總結
 
 | 指標 | 數量 |
@@ -169,6 +177,8 @@ Python：根據解析結果生成 SystemVerilog APB slave 模組
 | Debug Agent 最大迴圈數 | 20 輪 |
 
 ---
+
+<image5></image5>
 
 ## 原始碼
 

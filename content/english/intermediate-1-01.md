@@ -20,6 +20,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image1></image1>
+
 ## 第一章：當你猶豫不決時——表達「內心掙扎」的精準語彙
 
 在決策的初期，我們最常處於一種「觀望」或「猶豫」的狀態。這時候，如果只會說 "I don't know," 或 "I'm not sure," 會顯得語彙貧乏且過於直接。
@@ -56,6 +58,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image2></image2>
+
 ## 第二章：給予建議的藝術——如何委婉而有力地引導他人
 
 在職場或日常生活中，我們經常需要給予他人建議。如果語氣過於強硬，可能會讓人感到受威脅；如果過於軟弱，建議又可能被忽視。
@@ -81,6 +85,8 @@ ShowPostNavLinks: true
     *   "If you want to get fluent, then **speaking** is a good option."（如果你想變得流利，開口說是一個好的選擇。）
 
 ---
+
+<image3></image3>
 
 ## 第三章：決策的深度對話——權衡利弊與最終定奪
 
@@ -109,6 +115,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image4></image4>
+
 ## 第四章：文化背景與深度解析——那些課本沒教的事
 
 在學習這些句型的同時，理解其背後的文化語境，能讓你的英文使用得更像母語人士。
@@ -128,6 +136,8 @@ ShowPostNavLinks: true
 
 ---
 
+<image5></image5>
+
 ## 第五章：情境模擬——將知識轉化為實踐
 
 現在，讓我們將前三章所學的所有句型，整合進一個完整的對話場景中。
@@ -141,6 +151,8 @@ ShowPostNavLinks: true
 *   **你：** "If you **wanna** avoid complicated tech, then a hybrid Toyota is a **good option**. It's the best of both worlds."
 
 ---
+
+<image6></image6>
 
 ## 總結：語言是思維的延伸
 

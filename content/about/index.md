@@ -5,6 +5,8 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
+<image1></image1>
+
 ## Eric Hsiao（蕭意霖）
 
 **IC Design Engineer**，專注數位前端設計，同時用 Claude API 打造 EDA 工具鏈。

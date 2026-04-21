@@ -8,6 +8,8 @@ showToc: true
 TocOpen: false
 ---
 
+<image1></image1>
+
 ## 前情提要
 
 在 RTL-AI-Lab 的第二個月，我花了兩週時間密集整理 AI 工程師面試會問到的東西。
@@ -17,6 +19,8 @@ TocOpen: false
 這篇文章是我實際寫過程式、踩過坑之後整理出來的，不是翻教科書。
 
 ---
+
+<image2></image2>
 
 ## 一、API 整合：在正式環境裡用 AI 的四個關卡
 
@@ -148,6 +152,8 @@ async def ask_with_limit(questions: list[str], max_concurrent: int = 3):
 
 ---
 
+<image3></image3>
+
 ## 二、Fine-tuning：大部分時候你不需要它
 
 這是我做完這段研究後最大的收穫：**大多數問題不需要 fine-tuning**。
@@ -215,6 +221,8 @@ model.print_trainable_parameters()
 這樣回答展示了你有決策框架，不是隨機亂試。
 
 ---
+
+<image4></image4>
 
 ## 後記
 
