@@ -1,2 +1,16 @@
 /public/
 /.hugo_build.lock
+
+# --- Capacitor mobile project ---
+/mobile/node_modules/
+/mobile/android/.gradle/
+/mobile/android/build/
+/mobile/android/app/build/
+/mobile/android/local.properties
+/mobile/android/.idea/
+/mobile/ios/
+
+# --- 簽名密鑰：絕對不可進 git ---
+/mobile/keystore/*.jks
+/mobile/keystore/*.keystore
+/mobile/keystore/keystore.properties

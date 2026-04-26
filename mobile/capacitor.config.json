@@ -1,0 +1,17 @@
+{
+  "appId": "com.erichsiao.portfolio",
+  "appName": "Eric Hsiao",
+  "webDir": "www",
+  "server": {
+    "url": "https://erichsiao1106.github.io",
+    "androidScheme": "https",
+    "allowNavigation": [
+      "erichsiao1106.github.io",
+      "*.erichsiao1106.github.io"
+    ]
+  },
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  }
+}

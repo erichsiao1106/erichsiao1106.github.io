@@ -1,0 +1,10 @@
+{{- /* PWA: 註冊 Service Worker（僅在生產環境的 https 或 localhost 下執行） */ -}}
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').catch(function (err) {
+        console.warn('SW registration failed:', err);
+      });
+    });
+  }
+</script>
